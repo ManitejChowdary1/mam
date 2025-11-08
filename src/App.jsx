@@ -7,7 +7,7 @@ import mamPhoto from "./assets/mam.jpeg";
 import manitejPhoto from "./assets/manitej.jpeg";
 import mePhoto from "./assets/me.jpg";
 import chanduPhoto from "./assets/chandu.jpeg";
-import bhramajPhoto from "./assets/bhramaj.jpeg";
+import bhramajPhoto from "./assets/brahmaji.jpeg";
 
 function App() {
   return (
