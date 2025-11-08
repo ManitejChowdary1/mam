@@ -7,7 +7,7 @@ import mamPhoto from "./assets/mam.jpeg";
 import manitejPhoto from "./assets/manitej.jpeg";
 import mePhoto from "./assets/me.jpg";
 import chanduPhoto from "./assets/chandu.jpeg";
-import bhramajPhoto from "./assets/brahmaji.jpeg";
+import bhramajPhoto from "./assets/bhramaj.jpeg";
 
 function App() {
   return (
@@ -70,7 +70,7 @@ function App() {
 
         <div className="student-card">
           <img src={bhramajPhoto} alt="Bhramaj" className="student-photo" />
-          <p className="student-name">Bhramaj</p>
+          <p className="student-name">Brahmaji</p>
         </div>
       </div>
     </div>
